@@ -24,8 +24,11 @@
 ---
 
 ### 📬 Connect with Me  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-YourName-blue?logo=linkedin)](https://linkedin.com/in/yourname)  
-[![Twitter](https://img.shields.io/badge/Twitter-%40yourhandle-blue?logo=twitter)](https://twitter.com/yourhandle)  
+[![YouTube](https://img.shields.io/badge/YouTube-Subscribe-red?logo=youtube)](https://youtube.com/@programmingfields)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-YourName-blue?logo=linkedin)](https://linkedin.com/in/umesh-rana-5bb3ba115)  
+[![Twitter](https://img.shields.io/badge/Twitter-%40yourhandle-blue?logo=twitter)](https://twitter.com/umeshkrrana)   
+[![Facebook](https://img.shields.io/badge/Facebook-Follow-1877F2?logo=facebook&logoColor=white)](https://facebook.com/programmingfields)  
+[![Instagram](https://img.shields.io/badge/Instagram-Follow-E4405F?logo=instagram&logoColor=white)](https://instagram.com/programmingfields)   
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-ff69b4?logo=web)](https://yourportfolio.com)  
 
 ---
