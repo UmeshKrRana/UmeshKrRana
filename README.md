@@ -50,6 +50,10 @@
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=umeshkrrana&theme=radical" />
 </p>
 
+![Umesh Rana's GitHub stats](https://github-readme-stats.vercel.app/api?username=umeshkrrana&show_icons=true&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=umeshkrrana&theme=radical)
+
+
 ---
 
 ### 📬 Connect with Me  
@@ -68,15 +72,3 @@
 </p>
 
 ---
-
-### 💡 Fun Fact  
-🌍 **Did you know?** *You can make your GitHub profile more interactive with [GitHub Actions](https://github.com/features/actions)!*
-
----
-
-## **3. Extra Enhancements**
-- **📽️ Add GIFs** using services like [Giphy](https://giphy.com/).
-- **🎨 Customize Colors** using `theme` parameters in GitHub Stats URLs.
-- **🔥 Show Top Languages** with:  
-  ```md
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact)
