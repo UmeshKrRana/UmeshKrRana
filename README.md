@@ -46,7 +46,6 @@
 
 ### 📈 GitHub Stats  
 ![Umesh Rana's GitHub stats](https://github-readme-stats.vercel.app/api?username=umeshkrrana&show_icons=true&theme=radical&count_private=true&include_all_commits=true)
-![Umesh Rana's GitHub stats](https://github-readme-stats.vercel.app/api?username=umeshkrrana&show_icons=true&theme=radical)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=umeshkrrana&theme=radical)
 
 
