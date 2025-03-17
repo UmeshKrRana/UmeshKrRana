@@ -73,7 +73,7 @@
 [![Twitter](https://img.shields.io/badge/Twitter-%40umeshkrrana-blue?logo=twitter)](https://twitter.com/umeshkrrana)
 [![Facebook](https://img.shields.io/badge/Facebook-Follow-1877F2?logo=facebook&logoColor=white)](https://facebook.com/programmingfields)
 [![Instagram](https://img.shields.io/badge/Instagram-Follow-E4405F?logo=instagram&logoColor=white)](https://instagram.com/programmingfields)
-[![Blog](https://img.shields.io/badge/Blog-Visit-ff69b4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://programmingfields.com)
+[![Blog](https://img.shields.io/badge/Blog-Visit-ff69b4?logo=google-chrome&logoColor=white)](https://programmingfields.com)
 
 ---
 
