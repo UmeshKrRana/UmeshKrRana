@@ -79,9 +79,7 @@
 ---
 
 ### 🏆 GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=umeshkrrana&theme=onedark&margin-w=10&margin-h=10"/>
-</p>
+<img src="https://github-profile-trophy.vercel.app/?username=umeshkrrana&theme=onedark&margin-w=10&margin-h=10"/>
 
 ### 📌 Top Contributed Repositories  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=umeshkrrana&layout=compact&theme=radical)](https://github.com/umeshkrrana)  
