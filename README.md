@@ -35,7 +35,7 @@
 
 ### 🏆 GitHub Trophies
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=your-username&theme=onedark&margin-w=10&margin-h=10"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=umeshkrrana&theme=onedark&margin-w=10&margin-h=10"/>
 </p>
 
 ---
