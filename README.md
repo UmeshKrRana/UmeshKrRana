@@ -45,11 +45,6 @@
 ---
 
 ### 📈 GitHub Stats  
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=umeshkrrana&show_icons=true&theme=radical" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=umeshkrrana&theme=radical" />
-</p>
-
 ![Umesh Rana's GitHub stats](https://github-readme-stats.vercel.app/api?username=umeshkrrana&show_icons=true&theme=radical)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=umeshkrrana&theme=radical)
 
