@@ -66,4 +66,12 @@
   <img src="https://github-profile-trophy.vercel.app/?username=umeshkrrana&theme=onedark&margin-w=10&margin-h=10"/>
 </p>
 
+### 📌 Top Contributed Repositories  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=umeshkrrana&layout=compact&theme=radical)](https://github.com/umeshkrrana)  
+[![Umesh Rana's Top Repos](https://github-readme-stats.vercel.app/api/pin/?username=umeshkrrana&repo=repo-name&theme=radical)](https://github.com/umeshkrrana/laravel11-chat-app)
+[![Umesh Rana's Top Repos](https://github-readme-stats.vercel.app/api/pin/?username=umeshkrrana&repo=repo-name&theme=radical)](https://github.com/umeshkrrana/laravel6-firebase-integration)
+[![Umesh Rana's Top Repos](https://github-readme-stats.vercel.app/api/pin/?username=umeshkrrana&repo=repo-name&theme=radical)](https://github.com/umeshkrrana/livewire3-spa-crud)
+[![Umesh Rana's Top Repos](https://github-readme-stats.vercel.app/api/pin/?username=umeshkrrana&repo=another-repo&theme=radical)](https://github.com/umeshkrrana/laravel-multi-auth)
+[![Umesh Rana's Top Repos](https://github-readme-stats.vercel.app/api/pin/?username=umeshkrrana&repo=another-repo&theme=radical)](https://github.com/umeshkrrana/laravel11-sanctum-rest-api)
+
 ---
