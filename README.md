@@ -74,8 +74,8 @@
 [![Twitter](https://img.shields.io/badge/Twitter-%40umeshkrrana-blue?logo=twitter)](https://twitter.com/umeshkrrana)
 [![Facebook](https://img.shields.io/badge/Facebook-Follow-1877F2?logo=facebook&logoColor=white)](https://facebook.com/programmingfields)
 [![Instagram](https://img.shields.io/badge/Instagram-Follow-E4405F?logo=instagram&logoColor=white)](https://instagram.com/programmingfields)
-[![Quora](https://img.shields.io/badge/Quora-B92B27?style=plastic&logo=quora&logoColor=white)](https://www.quora.com/profile/Umesh-Rana-17/)
-[![DEV](https://img.shields.io/badge/DEV-0A0A0A?style=plastic&logo=dev.to&logoColor=white)](https://dev.to/umesh_rana_f44ff835a8f9ad/)
+[![Quora](https://img.shields.io/badge/Quora-B92B27?style=flat&logo=quora&logoColor=white)](https://www.quora.com/profile/Umesh-Rana-17/)
+[![DEV](https://img.shields.io/badge/DEV-0A0A0A?style=flat&logo=dev.to&logoColor=white)](https://dev.to/umesh_rana_f44ff835a8f9ad/)
 [![Blog](https://img.shields.io/badge/Blog-Visit-ff69b4?logo=google-chrome&logoColor=white)](https://programmingfields.com)
 
 ---
