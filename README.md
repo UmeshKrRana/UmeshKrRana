@@ -6,7 +6,7 @@
 - 💞️ When I'm not coding, you can find me exploring new trends in tech or contributing to open-source projects.
 - 📫 I’m deeply committed to helping and mentoring aspiring developers, sharing my knowledge through my <strong>YouTube</strong> channel - <a href="https://youtube.com/@programmingfields">@programmingfields </a> and official blog - <a href="https://programmingfields.com">Programming Fields</a>
 
-![Profile Views](https://komarev.com/ghpvc/?username=umeshkrrana&color=blue&style=for-the-badge)
+<p align="center">![Profile Views](https://komarev.com/ghpvc/?username=umeshkrrana&color=blue&style=for-the-badge)</p>
 
 
 ### 🛠 Tech Stack
