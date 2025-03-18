@@ -92,8 +92,10 @@
 ### 🏆 GitHub Trophies
 <img src="https://github-profile-trophy.vercel.app/?username=umeshkrrana&theme=onedark&margin-w=10&margin-h=10"/>
 
-### 📌 Top Contributed Repositories  
+### 📌 Top Languages   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=umeshkrrana&layout=compact&theme=radical)](https://github.com/umeshkrrana)  
+
+### 📌 Top Contributed Repositories  
 [![Umesh Rana's Top Repos](https://github-readme-stats.vercel.app/api/pin/?username=umeshkrrana&repo=laravel11-chat-app&theme=radical)](https://github.com/umeshkrrana/laravel11-chat-app)
 [![Umesh Rana's Top Repos](https://github-readme-stats.vercel.app/api/pin/?username=umeshkrrana&repo=laravel6-firebase-integration&theme=radical)](https://github.com/umeshkrrana/laravel6-firebase-integration)
 [![Umesh Rana's Top Repos](https://github-readme-stats.vercel.app/api/pin/?username=umeshkrrana&repo=livewire3-spa-crud&theme=radical)](https://github.com/umeshkrrana/livewire3-spa-crud)
